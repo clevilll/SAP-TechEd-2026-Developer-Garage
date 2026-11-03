@@ -89,11 +89,14 @@ In a basic orchestration workflow, multiple modules can be composed into a pipel
 
 ### Developer Garage — App Space track selection
 
-![SAP TechEd 2026 Developer Garage App Space with 11 tracks](gallery/app-space-tracks.png)
+![SAP TechEd 2026 Developer Garage App Space with 11 tracks](gallery/SAP-tech-Ed-1.PNG)
+
 
 ### SAP Gen AI Hub — Introduction to Orchestration
 
-![Introduction to Orchestration lesson and workflow](gallery/orchestration-introduction.png)
+[Introduction to Orchestration lesson and workflow
+<img width="1605" height="1045" alt="image" src="https://github.com/user-attachments/assets/92db3150-5e06-45af-9598-c8b8c248239a" />
+
 
 Additional photos can be added under `gallery/event-photos/` and linked from this section. Avoid uploading attendee photos without appropriate permission or screenshots that expose credentials or personal information.
 
